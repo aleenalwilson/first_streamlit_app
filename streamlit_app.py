@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.header("First Streamlit App")
+streamlit.title("First Streamlit App")
+streamlit.header("Options")
+streamlit.text("See Below")
